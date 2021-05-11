@@ -14,4 +14,7 @@ public class TestController {
     public String test(){
         return "rest";
     }
+    public String string(){
+        return "sdsa";
+    }
 }
